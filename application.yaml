@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: git@github.com:orcaprog/abouassi.git
+    repoURL: https://github.com/orcaprog/abouassi.git
     targetRevision: HEAD
     path: dev
   destination:
